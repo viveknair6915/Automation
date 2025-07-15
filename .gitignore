@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
+
+# Test reports
+report.html
+
+# Credentials (never commit secrets)
+test_cases/credentials.txt
+
+# Large files (unless required for submission)
+screenshots/*.mp4
+screenshots/*.png 
