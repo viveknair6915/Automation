@@ -6,13 +6,11 @@
 
 **See the automation in action:**
 
-<p align="center">
-  <a href="./screenshots/final.mp4"><img src="https://img.icons8.com/ios-filled/100/000000/video.png" alt="Demo Video" width="60"/></a>
-</p>
+[![Watch the demonstration](https://img.icons8.com/ios-filled/100/000000/video.png)](./screenshots/final.mp4)
 
 **[▶️ Click here to watch the demonstration (final.mp4)](./screenshots/final.mp4)**
 
-Or open `screenshots/final.mp4` in your video player.
+> **Note:** GitHub does not support inline video playback in README files. To view the demonstration, click the link or thumbnail above. If the video does not play in your browser, download `screenshots/final.mp4` and open it in your video player.
 
 ---
 
@@ -152,9 +150,4 @@ pytest --html=report.html --self-contained-html
 ## 💡 Additional Notes
 
 - The code is modular, clear, and easy to extend for more flows or data-driven testing.
-- All selectors and waits are robust against UI changes and common web automation issues (ads, overlays, etc.).
-- The project is ready for review and further enhancement as needed.
 
----
-
-**For any questions or further improvements, please contact the repository maintainer.**
