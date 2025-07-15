@@ -1,5 +1,21 @@
 # Magento QA Automation Assessment
 
+---
+
+## 🎥 Demonstration Video
+
+**See the automation in action:**
+
+<p align="center">
+  <a href="./screenshots/final.mp4"><img src="https://img.icons8.com/ios-filled/100/000000/video.png" alt="Demo Video" width="60"/></a>
+</p>
+
+**[▶️ Click here to watch the demonstration (final.mp4)](./screenshots/final.mp4)**
+
+Or open `screenshots/final.mp4` in your video player.
+
+---
+
 ## 📋 Assessment Overview
 
 **Deadline:** 2 days  
