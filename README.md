@@ -3,10 +3,14 @@
 ## 📹 Demo Video
 
 ### 🎥 Test Execution Video
-<video width="100%" controls>
-  <source src="cypress/videos/fullUserFlow.cy.js.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+**📁 Video File Location:** `cypress/videos/fullUserFlow.cy.js.mp4`
+
+**🎬 To view the video:**
+1. Open the video file directly from the project folder
+2. Or run the test to see it live: `npx cypress run --spec cypress/e2e/fullUserFlow.cy.js`
+
+**📹 Video Content:** Complete automation showing registration → login → sign-out → password change → re-login flow
 
 *Watch the complete test execution demonstrating all user flows including registration, login, sign-out, and password change functionality.*
 
