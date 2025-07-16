@@ -4,7 +4,7 @@
 
 This project demonstrates comprehensive QA automation for the Magento e-commerce platform using **Cypress** framework with **Page Object Model (POM)** design pattern. The automation covers complete user journey including registration, login, sign-out, and password change functionality.
 
-### 🎯 QA Assessment Objectives
+### Objectives
 - ✅ Test the sign up flow
 - ✅ Login with same account  
 - ✅ Signout functionality
@@ -13,17 +13,14 @@ This project demonstrates comprehensive QA automation for the Magento e-commerce
 
 ---
 
-## 📹 Demo Video & Screenshots
+## 📹 Demo Video
 
 ### 🎥 Test Execution Video
-![Test Execution Demo](cypress/videos/fullUserFlow.cy.js.mp4)
+The complete test execution video is available at: `cypress/videos/fullUserFlow.cy.js.mp4`
 
-*Watch the complete test execution demonstrating all user flows*
+*Watch the complete test execution demonstrating all user flows including registration, login, sign-out, and password change functionality.*
 
-### 📸 Test Results Screenshots
-![Test Execution Screenshot](cypress/screenshots/fullUserFlow.cy.js/Full%20User%20Flow%20Signup%2C%20Login%2C%20Signout%2C%20Change%20Password%20--%20should%20complete%20the%20full%20user%20flow%20(failed).png)
-
-*Screenshot showing Cypress Test Runner with Magento login page automation in progress*
+**Note**: The video file (21MB) shows the full automation in action with Cypress Test Runner and Magento website interaction.
 
 ---
 
@@ -305,17 +302,4 @@ For questions or issues:
 - Create an issue in the repository
 - Check the Cypress documentation
 - Review test logs and screenshots
-
----
-
-## 🎉 Success Criteria
-
-✅ **All QA Assessment Requirements Met:**
-- Test cases documented in Excel
-- Automation code with POM implementation
-- Error-free and robust code
-- Well-structured repository
-- Proof of execution (video & screenshots)
-- Multiple commits with clear history
-
-**Ready for submission! 🚀** 
+* 

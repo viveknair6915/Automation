@@ -1,10 +1,6 @@
 # Dependencies
 node_modules/
 
-# Cypress generated files
-cypress/videos/
-cypress/screenshots/
-
 # Environment variables (if any)
 .env
 .env.local
