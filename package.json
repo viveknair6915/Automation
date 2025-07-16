@@ -1,0 +1,16 @@
+{
+  "name": "magento-qa-automation",
+  "version": "1.0.0",
+  "description": "QA Automation for Magento sign up, login, signout, and change password using Cypress and POM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": ["cypress", "qa", "automation", "magento", "pom"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+} 

@@ -1,10 +1,21 @@
-# Python cache
-__pycache__/
-*.pyc
+# Dependencies
+node_modules/
 
-# pytest cache
-.pytest_cache/
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
 
+# Environment variables (if any)
+.env
+.env.local
 
-# Credentials (never commit secrets)
-test_cases/credentials.txt
+# IDE files (if using)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log 
